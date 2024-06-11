@@ -5,6 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título que disperte curiosidade sobre o planejamento e configuração de uma rede de computadores para uma empresa de grande porte usando os roteadores do modelo Transceptor Alcatel-Lucent 3HE00564AA 10GBase-LR XFP |
+| conteúdo | Descreva os desafios na configuração de roteadores do modelo Transceptor Alcatel-Lucent 3HE00564AA 10GBase-LR XFP, considere principalmente a configuração do sistemas operacional do equipamento. Forneça alguns exemplos de confirguração. Para isto considere um empresa com uma sede e 6 filiais a mais de 400 km de distãncia uma das outras.
+| Imagem   | Crie a imagem de uma rede de computadores, mostre um mapa com predios ilustrando a sede e as filiais. A imagem deve ser realista, inspire-se no arquiteto Brasileiro Oscar Niemeyer |
 
